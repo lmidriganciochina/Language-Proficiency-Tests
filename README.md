@@ -15,7 +15,8 @@ The English version of the Self-Administering Scale for Measuring Intellectual I
 ## Authors
 midriganludmila@gmail.com
 Ludmila Midrigan-Ciochina
-David P. Corina ## Color Reference
+and 
+David P. Corina 
 
 Please site the following papers: 
 Midrigan-Ciochina, L., Vodacek, K. P., Balabhadra, S., & Corina, D. P. (2024). A comparison of structural brain differences in monolingual and highly proficient multilingual speakers. Bilingualism: Language and Cognition, 27(1), 117-127.
